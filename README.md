@@ -1,5 +1,4 @@
 # hello-world
-learning stuff
 
 Hey I'm aevilok!
 
